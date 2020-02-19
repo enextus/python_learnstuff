@@ -1,0 +1,4 @@
+name,pid,steuerklasse,familienstand,adk,gehaltstufe
+Eduard,0001,1,alleinstehend,0,6500
+Pavel,0002,2,alleinerzihend,0,3500
+Thomas,0003,3,verheiratet,2,5500
